@@ -1,0 +1,21 @@
+.app{
+    height: 100%;
+}
+.main {
+    display: flex;
+    height: 100%;
+}
+.restContent {
+    height: 100%;
+    width: 100%;
+}
+.sidebarWrapper {
+    height: 100%;
+    width: 100px;
+    /* margin-left: -100px; */
+    transition: width 1s;
+}
+button {
+    position: absolute;
+    left: 0px;
+}
